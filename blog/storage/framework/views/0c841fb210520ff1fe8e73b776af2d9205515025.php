@@ -1,0 +1,1 @@
+<h1>This is contacccccttt </h1><?php /**PATH C:\Users\Rubayet Anjum Joy\Desktop\Laravel Project\blog\resources\views/contactpage.blade.php ENDPATH**/ ?>

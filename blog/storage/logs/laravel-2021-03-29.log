@@ -1,0 +1,124 @@
+[2021-03-29 11:48:25] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:48:35] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:49:51] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:49:54] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:52:01] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:52:18] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:53:45] local.ERROR: Class App\Http\Middleware\CheckForMaintenanceMode does not exist {"exception":"[object] (ReflectionException(code: -1): Class App\\Http\\Middleware\\CheckForMaintenanceMode does not exist at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:788)
+[stacktrace]
+#0 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(788): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#1 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#2 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#3 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#4 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(152): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Middle...')
+#5 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(104): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(151): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#11 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#13 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\server.php(21): require_once('C:\\\\Users\\\\Rubaye...')
+#14 {main}
+"} 
+[2021-03-29 11:53:45] local.ERROR: Class App\Http\Middleware\CheckForMaintenanceMode does not exist {"exception":"[object] (ReflectionException(code: -1): Class App\\Http\\Middleware\\CheckForMaintenanceMode does not exist at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:788)
+[stacktrace]
+#0 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(788): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#1 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#2 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#3 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#4 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(215): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Middle...')
+#5 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(189): Illuminate\\Foundation\\Http\\Kernel->terminateMiddleware(Object(Illuminate\\Http\\Request), Object(Illuminate\\Http\\Response))
+#6 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\public\\index.php(60): Illuminate\\Foundation\\Http\\Kernel->terminate(Object(Illuminate\\Http\\Request), Object(Illuminate\\Http\\Response))
+#7 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\server.php(21): require_once('C:\\\\Users\\\\Rubaye...')
+#8 {main}
+"} 
+[2021-03-29 11:53:59] local.ERROR: Namespace declaration statement has to be the very first statement or after any declare call in the script {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Namespace declaration statement has to be the very first statement or after any declare call in the script at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 11:54:09] local.ERROR: Class App\Http\Middleware\CheckForMaintenanceMode does not exist {"exception":"[object] (ReflectionException(code: -1): Class App\\Http\\Middleware\\CheckForMaintenanceMode does not exist at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:788)
+[stacktrace]
+#0 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(788): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#1 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#2 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#3 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#4 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(152): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Middle...')
+#5 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(104): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(151): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#11 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#13 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\server.php(21): require_once('C:\\\\Users\\\\Rubaye...')
+#14 {main}
+"} 
+[2021-03-29 11:54:09] local.ERROR: Cannot declare class CheckForMaintenanceMode, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CheckForMaintenanceMode, because the name is already in use at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 12:01:47] local.ERROR: Class App\Http\Middleware\CheckForMaintenanceMode does not exist {"exception":"[object] (ReflectionException(code: -1): Class App\\Http\\Middleware\\CheckForMaintenanceMode does not exist at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:788)
+[stacktrace]
+#0 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(788): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#1 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#2 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#3 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#4 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(152): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Middle...')
+#5 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(104): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(151): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#11 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#13 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\server.php(21): require_once('C:\\\\Users\\\\Rubaye...')
+#14 {main}
+"} 
+[2021-03-29 12:01:47] local.ERROR: Cannot declare class CheckForMaintenanceMode, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CheckForMaintenanceMode, because the name is already in use at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2021-03-29 12:05:17] local.ERROR: Class App\Http\Middleware\CheckForMaintenanceMode does not exist {"exception":"[object] (ReflectionException(code: -1): Class App\\Http\\Middleware\\CheckForMaintenanceMode does not exist at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php:788)
+[stacktrace]
+#0 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(788): ReflectionClass->__construct('App\\\\Http\\\\Middle...')
+#1 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(667): Illuminate\\Container\\Container->build('App\\\\Http\\\\Middle...')
+#2 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(615): Illuminate\\Container\\Container->resolve('App\\\\Http\\\\Middle...', Array)
+#3 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(767): Illuminate\\Container\\Container->make('App\\\\Http\\\\Middle...', Array)
+#4 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(152): Illuminate\\Foundation\\Application->make('App\\\\Http\\\\Middle...')
+#5 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\fideloper\\proxy\\src\\TrustProxies.php(57): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(163): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Pipeline.php(53): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(104): Illuminate\\Routing\\Pipeline->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#10 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(151): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#11 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(116): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\public\\index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#13 C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\server.php(21): require_once('C:\\\\Users\\\\Rubaye...')
+#14 {main}
+"} 
+[2021-03-29 12:05:17] local.ERROR: Cannot declare class CheckForMaintenanceMode, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CheckForMaintenanceMode, because the name is already in use at C:\\Users\\Rubayet Anjum Joy\\Desktop\\Laravel Project\\blog\\app\\Http\\Middleware\\CheckForMaintenanceMode.php:18)
+[stacktrace]
+#0 {main}
+"} 

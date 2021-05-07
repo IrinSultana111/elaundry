@@ -1,0 +1,1 @@
+<h1>Hello</h1><?php /**PATH C:\Users\Rubayet Anjum Joy\Desktop\Laravel Project\blog\resources\views/bootsrap.blade.php ENDPATH**/ ?>
